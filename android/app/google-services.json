@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346236056376",
+    "project_id": "votaciones-de-rock",
+    "storage_bucket": "votaciones-de-rock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346236056376:android:844ac30b10d3888ee887cd",
+        "android_client_info": {
+          "package_name": "com.erickleonel1999lps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWz4MFZ9MmQ4mAhClRtKQaaioxEFQVHKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
